@@ -1335,6 +1335,312 @@
       "password": "7eadc6dbe2ae"
     },
     {
+      "type": "vless",
+      "tag": "🇫🇮 Finland | [*CIDR] (2)",
+      "server": "fi.alpheratzz.org",
+      "server_port": 443,
+      "uuid": "b3441cc7-1e5f-4eb6-8207-90788eeca21e",
+      "tls": {
+        "enabled": true,
+        "server_name": "b3441cc7.ferrin.uk",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 The Netherlands | [*CIDR] VK (2)",
+      "server": "185.86.145.142",
+      "server_port": 2096,
+      "uuid": "c1eabfbe-62ef-46a2-9857-9ad3d69e174a",
+      "tls": {
+        "enabled": true,
+        "server_name": "apis.heoleti.pro",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "edge"
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
+      "server": "91.196.32.163",
+      "server_port": 443,
+      "password": "mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] (2)",
+      "server": "194.87.118.184",
+      "server_port": 2053,
+      "password": "7ab3c77e-8fcc-4848-918f-cae3d4eac794",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (2)",
+      "server": "194.60.86.88",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "wWw.Volumeroot.cOm",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "unsafe"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 France, Paris | [BL] (3)",
+      "server": "141.193.213.172",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "android"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 France, Paris | [BL] (4)",
+      "server": "45.80.111.7",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 The Netherlands, Haarlem | [BL] (5)",
+      "server": "188.42.145.180",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "wWw.Volumeroot.cOm.",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 The Netherlands, Haarlem | [BL] (6)",
+      "server": "188.42.145.180",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.volumeroot.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 The Netherlands, Haarlem | [BL] (7)",
+      "server": "45.131.4.38",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 The Netherlands, Haarlem | [BL] (8)",
+      "server": "8.47.69.0",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇵🇱 Poland | 🌐 | [BL] (2)",
+      "server": "216.24.57.3",
+      "server_port": 443,
+      "uuid": "6a9bd5bf-7fb1-4f42-a49a-141077ea669f",
+      "tls": {
+        "enabled": true,
+        "server_name": "mobile.zandix.ir",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (3)",
+      "server": "103.24.207.39",
+      "server_port": 444,
+      "uuid": "258d8fc5-206c-48fd-88df-169dbbe44d3f",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "vextor.win",
+        "reality": {
+          "enabled": true,
+          "public_key": "P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 France, Aubervilliers | [BL] (2)",
+      "server": "farancenew.mamadhpbot.ir",
+      "server_port": 8080,
+      "uuid": "732ec777-bf4a-4fee-835a-25d6a8b58563",
+      "transport": {
+        "type": "ws",
+        "path": "/real",
+        "headers": {
+          "Host": "farancenew.mamadhpbot.ir"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 France, Aubervilliers | [BL] (3)",
+      "server": "farancenew.mamadhpbot.ir",
+      "server_port": 8080,
+      "uuid": "732ec777-bf4a-4fee-835a-25d6a8b58563",
+      "transport": {
+        "type": "ws",
+        "path": "/real"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom, Archway | [BL]",
+      "server": "britaniapnl.mamadhpbot.ir",
+      "server_port": 8080,
+      "uuid": "732ec777-bf4a-4fee-835a-25d6a8b58563",
+      "transport": {
+        "type": "ws",
+        "path": "/real",
+        "headers": {
+          "Host": "Britaniapnl.mamadhpbot.ir"
+        }
+      }
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (21)",
+      "server": "82.38.31.185",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (22)",
+      "server": "82.38.31.195",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (23)",
+      "server": "82.38.31.204",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (24)",
+      "server": "82.38.31.11",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (25)",
+      "server": "82.38.31.149",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
+      "server": "82.38.31.174",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+    },
+    {
+      "type": "ss",
+      "tag": "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)",
+      "server": "82.38.31.7",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Germany | [SNI-RU] rutube.ru",
+      "server": "103.24.207.87",
+      "server_port": 10000,
+      "uuid": "320bb8a2-0b37-4d1a-9b7e-615fe6534ecf",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "rutube.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ",
+          "short_id": "d0cd6a0b1a18092b"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      }
+    },
+    {
       "type": "urltest",
       "tag": "🚀 Авто",
       "outbounds": [
@@ -1420,7 +1726,31 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (19)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (20)",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] (4)",
-        "🇷🇺 Russia, Berdsk | [BL]"
+        "🇷🇺 Russia, Berdsk | [BL]",
+        "🇫🇮 Finland | [*CIDR] (2)",
+        "🇳🇱 The Netherlands | [*CIDR] VK (2)",
+        "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
+        "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] (2)",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (2)",
+        "🇫🇷 France, Paris | [BL] (3)",
+        "🇫🇷 France, Paris | [BL] (4)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (5)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (6)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (7)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (8)",
+        "🇵🇱 Poland | 🌐 | [BL] (2)",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (3)",
+        "🇫🇷 France, Aubervilliers | [BL] (2)",
+        "🇫🇷 France, Aubervilliers | [BL] (3)",
+        "🇬🇧 United Kingdom, Archway | [BL]",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (21)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (22)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (23)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (24)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (25)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)",
+        "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -1445,7 +1775,10 @@
         "🇷🇺 Russia | [*CIDR] Beeline",
         "🇷🇺 Russia | 🌐 [*CIDR]",
         "🇷🇺 Russia [*CIDR] (2)",
-        ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [*CIDR]"
+        ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [*CIDR]",
+        "🇫🇮 Finland | [*CIDR] (2)",
+        "🇳🇱 The Netherlands | [*CIDR] VK (2)",
+        "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
       "default": "🚀 Авто"
     },
@@ -1521,7 +1854,28 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (19)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (20)",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] (4)",
-        "🇷🇺 Russia, Berdsk | [BL]"
+        "🇷🇺 Russia, Berdsk | [BL]",
+        "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
+        "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] (2)",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (2)",
+        "🇫🇷 France, Paris | [BL] (3)",
+        "🇫🇷 France, Paris | [BL] (4)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (5)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (6)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (7)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (8)",
+        "🇵🇱 Poland | 🌐 | [BL] (2)",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL] (3)",
+        "🇫🇷 France, Aubervilliers | [BL] (2)",
+        "🇫🇷 France, Aubervilliers | [BL] (3)",
+        "🇬🇧 United Kingdom, Archway | [BL]",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (21)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (22)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (23)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (24)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (25)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
       "default": "🚀 Авто"
     },
@@ -1532,7 +1886,8 @@
         "🚀 Авто",
         "🇫🇮 Finland [*CIDR]",
         "🇫🇮 Finland | [*CIDR]",
-        "🇫🇮 Finland | 🌐 | [BL]"
+        "🇫🇮 Finland | 🌐 | [BL]",
+        "🇫🇮 Finland | [*CIDR] (2)"
       ],
       "default": "🚀 Авто"
     },
@@ -1554,7 +1909,9 @@
         "🇩🇪 Germany, Frankfurt am Main | [BL]",
         "🇩🇪 Germany, Frankfurt am Main | [BL] (2)",
         "🇩🇪 Germany, Frankfurt am Main | [BL] (3)",
-        "🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]"
+        "🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]",
+        "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
+        "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
       "default": "🚀 Авто"
     },
@@ -1597,7 +1954,19 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (17)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (18)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (19)",
-        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (20)"
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (20)",
+        "🇳🇱 The Netherlands | [*CIDR] VK (2)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (5)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (6)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (7)",
+        "🇳🇱 The Netherlands, Haarlem | [BL] (8)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (21)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (22)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (23)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (24)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (25)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
       "default": "🚀 Авто"
     },
@@ -1609,7 +1978,11 @@
         "🇫🇷 France, Aubervilliers | [BL]",
         "🇫🇷 France, Paris | [BL]",
         "🇫🇷 France, Paris | [BL] (2)",
-        "🇫🇷 France, Paris | 🌐 | [BL]"
+        "🇫🇷 France, Paris | 🌐 | [BL]",
+        "🇫🇷 France, Paris | [BL] (3)",
+        "🇫🇷 France, Paris | [BL] (4)",
+        "🇫🇷 France, Aubervilliers | [BL] (2)",
+        "🇫🇷 France, Aubervilliers | [BL] (3)"
       ],
       "default": "🚀 Авто"
     },
@@ -1622,7 +1995,8 @@
         "🇵🇱 Poland, Poznan (Jeżyce) | [BL] (2)",
         "🇵🇱 Poland | 🌐 | [BL]",
         "🇵🇱 Poland, Warsaw | [BL]",
-        "🇵🇱 Poland, Warsaw | [BL] (2)"
+        "🇵🇱 Poland, Warsaw | [BL] (2)",
+        "🇵🇱 Poland | 🌐 | [BL] (2)"
       ],
       "default": "🚀 Авто"
     },
@@ -1651,7 +2025,8 @@
       "outbounds": [
         "🚀 Авто",
         "🇬🇧 United Kingdom | 🌐 [*CIDR]",
-        "🇬🇧 United Kingdom, London | [BL]"
+        "🇬🇧 United Kingdom, London | [BL]",
+        "🇬🇧 United Kingdom, Archway | [BL]"
       ],
       "default": "🚀 Авто"
     },
