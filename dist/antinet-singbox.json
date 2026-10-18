@@ -1672,8 +1672,8 @@
       }
     },
     {
-      "type": "selector",
-      "tag": "🌍 Finland",
+      "type": "urltest",
+      "tag": "⚡ Авто · 🇫🇮 Финляндия",
       "outbounds": [
         "🇫🇮 Finland [*CIDR] · 01",
         "🇫🇮 Finland | [*CIDR] · 02",
@@ -1689,41 +1689,27 @@
         "🇫🇮 Finland | [*CIDR] · 12",
         "🇫🇮 Finland | [*CIDR] · 13",
         "🇫🇮 Finland | 🌐 [*CIDR] · 14"
-      ]
+      ],
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
+      "tolerance": 50
     },
     {
-      "type": "selector",
-      "tag": "🌍 Russia",
+      "type": "urltest",
+      "tag": "⚡ Авто · 🇬🇧 Великобритания",
       "outbounds": [
-        "🇷🇺 Russia [*CIDR] · 63",
-        "🇷🇺 Russia [*CIDR] · 64",
-        "🇷🇺 Russia | [*CIDR] · 65",
-        "🇷🇺 Russia | [*CIDR] · 66",
-        "🇷🇺 Russia | [*CIDR] Beeline · 67",
-        "🇷🇺 Russia | 🌐 [*CIDR] · 68",
-        "🇷🇺 Russia | 🌐 [*CIDR] · 69",
-        "🇷🇺 Russia | 🌐 [*CIDR] · 70",
-        "🇷🇺 Russia | 🌐 [*CIDR] · 71",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 72",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 73",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 74",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 75",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 76",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 77",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 78",
-        "🇷🇺 Russia | 🌐 | [*CIDR] · 79",
-        "🇷🇺 Russia [*CIDR] Beeline · 80",
-        "🇷🇺 Russia [*CIDR] Beeline · 81",
-        "🇷🇺 Russia [*CIDR] · 82",
-        "🇷🇺 Russia [*CIDR] · 83",
-        "🇷🇺 Russia | 🌐 [*CIDR] · 84",
-        ".𖥔 ݁ ˖ִ🛸༄˖°. | [*CIDR] · 85",
-        ".𖥔 ݁ ˖ִ🛸༄˖°. | [*CIDR] · 86"
-      ]
+        "🇬🇧 United Kingdom | 🌐 [*CIDR] · 59",
+        "🇬🇧 United Kingdom | 🌐 [*CIDR] · 60",
+        "🇬🇧 United Kingdom | 🌐 | [*CIDR] · 61",
+        "🇬🇧 United Kingdom | 🌐 | [*CIDR] · 62"
+      ],
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
+      "tolerance": 50
     },
     {
-      "type": "selector",
-      "tag": "🌍 The Netherlands",
+      "type": "urltest",
+      "tag": "⚡ Авто · 🇳🇱 Нидерланды",
       "outbounds": [
         "🇳🇱 The Netherlands [*CIDR] · 15",
         "🇳🇱 The Netherlands [*CIDR] · 16",
@@ -1769,26 +1755,52 @@
         "🇳🇱 The Netherlands | [*CIDR] VK · 56",
         "🇳🇱 The Netherlands | [*CIDR] VK · 57",
         "🇳🇱 The Netherlands | [*CIDR] VK · 58"
-      ]
+      ],
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
+      "tolerance": 50
     },
     {
-      "type": "selector",
-      "tag": "🌍 United Kingdom",
+      "type": "urltest",
+      "tag": "⚡ Авто · 🇷🇺 Россия",
       "outbounds": [
-        "🇬🇧 United Kingdom | 🌐 [*CIDR] · 59",
-        "🇬🇧 United Kingdom | 🌐 [*CIDR] · 60",
-        "🇬🇧 United Kingdom | 🌐 | [*CIDR] · 61",
-        "🇬🇧 United Kingdom | 🌐 | [*CIDR] · 62"
-      ]
+        "🇷🇺 Russia [*CIDR] · 63",
+        "🇷🇺 Russia [*CIDR] · 64",
+        "🇷🇺 Russia | [*CIDR] · 65",
+        "🇷🇺 Russia | [*CIDR] · 66",
+        "🇷🇺 Russia | [*CIDR] Beeline · 67",
+        "🇷🇺 Russia | 🌐 [*CIDR] · 68",
+        "🇷🇺 Russia | 🌐 [*CIDR] · 69",
+        "🇷🇺 Russia | 🌐 [*CIDR] · 70",
+        "🇷🇺 Russia | 🌐 [*CIDR] · 71",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 72",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 73",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 74",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 75",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 76",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 77",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 78",
+        "🇷🇺 Russia | 🌐 | [*CIDR] · 79",
+        "🇷🇺 Russia [*CIDR] Beeline · 80",
+        "🇷🇺 Russia [*CIDR] Beeline · 81",
+        "🇷🇺 Russia [*CIDR] · 82",
+        "🇷🇺 Russia [*CIDR] · 83",
+        "🇷🇺 Russia | 🌐 [*CIDR] · 84",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [*CIDR] · 85",
+        ".𖥔 ݁ ˖ִ🛸༄˖°. | [*CIDR] · 86"
+      ],
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
+      "tolerance": 50
     },
     {
       "type": "selector",
       "tag": "🌍 Страны",
       "outbounds": [
-        "🌍 Finland",
-        "🌍 Russia",
-        "🌍 The Netherlands",
-        "🌍 United Kingdom"
+        "⚡ Авто · 🇫🇮 Финляндия",
+        "⚡ Авто · 🇬🇧 Великобритания",
+        "⚡ Авто · 🇳🇱 Нидерланды",
+        "⚡ Авто · 🇷🇺 Россия"
       ]
     },
     {
