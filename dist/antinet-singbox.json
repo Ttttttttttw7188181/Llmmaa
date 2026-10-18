@@ -1641,6 +1641,14 @@
       }
     },
     {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    },
+    {
       "type": "urltest",
       "tag": "🚀 Авто",
       "outbounds": [
@@ -1752,15 +1760,14 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)",
         "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
-      "url": "http://www.gstatic.com/generate_204",
+      "url": "https://www.gstatic.com/generate_204",
       "interval": "5m",
-      "tolerance": 80
+      "tolerance": 50
     },
     {
       "type": "selector",
       "tag": "🔌 VLESS",
       "outbounds": [
-        "🚀 Авто",
         "🇫🇮 Finland [*CIDR]",
         "🇫🇮 Finland | [*CIDR]",
         "🇸🇪 Sweden [*CIDR]",
@@ -1802,13 +1809,12 @@
         "🇬🇧 United Kingdom, Archway | [BL]",
         "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
-      "default": "🚀 Авто"
+      "default": "🇫🇮 Finland [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🔌 Shadowsocks",
       "outbounds": [
-        "🚀 Авто",
         "🇭🇰 Hong Kong, Mong Kok | [BL]",
         "🇯🇵 Japan, Shinagawa (Higashishinagawa) | [BL]",
         "🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]",
@@ -1842,13 +1848,12 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇭🇰 Hong Kong, Mong Kok | [BL]"
     },
     {
       "type": "selector",
       "tag": "🔌 Trojan",
       "outbounds": [
-        "🚀 Авто",
         ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL]",
         "🇫🇷 France, Paris | [BL]",
         "🇫🇷 France, Paris | [BL] (2)",
@@ -1869,13 +1874,12 @@
         "🇳🇱 The Netherlands, Haarlem | [BL] (7)",
         "🇳🇱 The Netherlands, Haarlem | [BL] (8)"
       ],
-      "default": "🚀 Авто"
+      "default": ".𖥔 ݁ ˖ִ🛸༄˖°. | [BL]"
     },
     {
       "type": "selector",
       "tag": "🔌 Hysteria2",
       "outbounds": [
-        "🚀 Авто",
         "🇷🇺 Russia [*CIDR] (2)",
         "🇫🇷 France, Aubervilliers | [BL]",
         "🇩🇪 Germany, Frankfurt am Main | [BL]",
@@ -1890,46 +1894,44 @@
         "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
         "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇷🇺 Russia [*CIDR] (2)"
     },
     {
       "type": "selector",
       "tag": "🔌 VMess",
       "outbounds": [
-        "🚀 Авто",
         ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [*CIDR]",
         ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [BL]",
         ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [BL] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🌍 Финляндия",
       "outbounds": [
-        "🚀 Авто",
         "🇫🇮 Finland [*CIDR]",
         "🇫🇮 Finland | [*CIDR]",
         "🇫🇮 Finland | 🌐 | [BL]",
+        "🌐 Anycast-IP | 🇨🇦 🇫🇮 | [BL]",
+        "🌐 Anycast-IP | 🇨🇦 🇫🇮 | [BL] (2)",
         "🇫🇮 Finland | [*CIDR] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇫🇮 Finland [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🌍 Швеция",
       "outbounds": [
-        "🚀 Авто",
         "🇸🇪 Sweden [*CIDR]",
         "🇸🇪 Sweden, Stockholm | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇸🇪 Sweden [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🌍 Германия",
       "outbounds": [
-        "🚀 Авто",
         "🇩🇪 Germany, Frankfurt am Main | [BL]",
         "🇩🇪 Germany, Frankfurt am Main | [BL] (2)",
         "🇩🇪 Germany, Frankfurt am Main | [BL] (3)",
@@ -1937,13 +1939,12 @@
         "🇩🇪 Germany, Frankfurt am Main | [BL] (4)",
         "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
-      "default": "🚀 Авто"
+      "default": "🇩🇪 Germany, Frankfurt am Main | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Нидерланды",
       "outbounds": [
-        "🚀 Авто",
         "🇳🇱 The Netherlands [*CIDR]",
         "🇳🇱 The Netherlands [*CIDR] (2)",
         "🇳🇱 The Netherlands [*CIDR] (3)",
@@ -1992,13 +1993,12 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇳🇱 The Netherlands [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🌍 Франция",
       "outbounds": [
-        "🚀 Авто",
         "🇫🇷 France, Aubervilliers | [BL]",
         "🇫🇷 France, Paris | [BL]",
         "🇫🇷 France, Paris | [BL] (2)",
@@ -2008,13 +2008,12 @@
         "🇫🇷 France, Aubervilliers | [BL] (2)",
         "🇫🇷 France, Aubervilliers | [BL] (3)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇫🇷 France, Aubervilliers | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Польша",
       "outbounds": [
-        "🚀 Авто",
         "🇵🇱 Poland, Poznan (Jeżyce) | [BL]",
         "🇵🇱 Poland, Poznan (Jeżyce) | [BL] (2)",
         "🇵🇱 Poland | 🌐 | [BL]",
@@ -2022,100 +2021,94 @@
         "🇵🇱 Poland, Warsaw | [BL] (2)",
         "🇵🇱 Poland | 🌐 | [BL] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇵🇱 Poland, Poznan (Jeżyce) | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Эстония",
       "outbounds": [
-        "🚀 Авто",
         "🇪🇪 Estonia, Tallinn | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇪🇪 Estonia, Tallinn | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Литва",
       "outbounds": [
-        "🚀 Авто",
         "🇱🇹 Lithuania, Vilnius | [BL]",
         "🇱🇹 Lithuania, Vilnius | [BL] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇱🇹 Lithuania, Vilnius | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Великобритания",
       "outbounds": [
-        "🚀 Авто",
         "🇬🇧 United Kingdom | 🌐 [*CIDR]",
         "🇬🇧 United Kingdom, London | [BL]",
+        "🌐 Anycast-IP | 🇨🇦 🇬🇧 | [BL]",
+        "🌐 Anycast-IP | 🇨🇦 🇬🇧 | [BL] (2)",
         "🇬🇧 United Kingdom, Archway | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇬🇧 United Kingdom | 🌐 [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "🌍 США",
       "outbounds": [
-        "🚀 Авто",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]",
-        "🇱🇹 Lithuania, Vilnius | [BL]",
-        "🇱🇹 Lithuania, Vilnius | [BL] (2)",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] (2)",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] (3)",
         "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] (4)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Япония",
       "outbounds": [
-        "🚀 Авто",
         "🇯🇵 Japan, Shinagawa | [BL]",
         "🇯🇵 Japan, Shinagawa (Higashishinagawa) | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇯🇵 Japan, Shinagawa | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Сингапур",
       "outbounds": [
-        "🚀 Авто",
         "🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Гонконг",
       "outbounds": [
-        "🚀 Авто",
         "🇭🇰 Hong Kong, Central | [BL]",
         "🇭🇰 Hong Kong, Mong Kok | [BL]"
       ],
-      "default": "🚀 Авто"
+      "default": "🇭🇰 Hong Kong, Central | [BL]"
     },
     {
       "type": "selector",
       "tag": "🌍 Россия",
       "outbounds": [
-        "🚀 Авто",
         "🇷🇺 Russia [*CIDR]",
         "🇷🇺 Russia | [*CIDR] Beeline",
         "🇷🇺 Russia | 🌐 [*CIDR]",
         "🇷🇺 Russia [*CIDR] (2)",
         "🇷🇺 Russia, Moscow | [BL]",
-        "🇷🇺 Russia, Berdsk | [BL]"
+        "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL]",
+        "🌐 Anycast-IP | 🇷🇺 | [BL]",
+        "🇷🇺 Russia, Berdsk | [BL]",
+        "🌐 Anycast-IP | 🇨🇦 🇷🇺 | [BL] (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇷🇺 Russia [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "⚪ БС",
       "outbounds": [
-        "🚀 Авто",
         "🇫🇮 Finland [*CIDR]",
         "🇫🇮 Finland | [*CIDR]",
         "🇸🇪 Sweden [*CIDR]",
@@ -2134,13 +2127,12 @@
         "🇫🇮 Finland | [*CIDR] (2)",
         "🇳🇱 The Netherlands | [*CIDR] VK (2)"
       ],
-      "default": "🚀 Авто"
+      "default": "🇫🇮 Finland [*CIDR]"
     },
     {
       "type": "selector",
       "tag": "⚫ ЧС",
       "outbounds": [
-        "🚀 Авто",
         "🇫🇷 France, Aubervilliers | [BL]",
         "🇩🇪 Germany, Frankfurt am Main | [BL]",
         "🇩🇪 Germany, Frankfurt am Main | [BL] (2)",
@@ -2229,18 +2221,9 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (24)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (25)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
-        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)",
-        "🇩🇪 Germany | [SNI-RU] rutube.ru"
+        "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
-      "default": "🚀 Авто"
-    },
-    {
-      "type": "direct",
-      "tag": "direct"
-    },
-    {
-      "type": "block",
-      "tag": "block"
+      "default": "🇫🇷 France, Aubervilliers | [BL]"
     }
   ],
   "route": {
