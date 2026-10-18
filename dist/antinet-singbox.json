@@ -9,7 +9,7 @@
         "type": "https",
         "tag": "dns-remote",
         "server": "1.1.1.1",
-        "detour": "🚀 Авто"
+        "detour": "🌐 Страны и протоколы"
       }
     ],
     "final": "dns-remote",
