@@ -30,8 +30,18 @@
   ],
   "outbounds": [
     {
+      "type": "selector",
+      "tag": "🌍 Страны",
+      "outbounds": [
+        "🇫🇮 Авто — Финляндия",
+        "🇬🇧 Авто — Великобритания",
+        "🇳🇱 Авто — Нидерланды",
+        "🇷🇺 Авто — Россия"
+      ]
+    },
+    {
       "type": "urltest",
-      "tag": "⚡ Авто · 🇫🇮 Финляндия",
+      "tag": "🇫🇮 Авто — Финляндия",
       "outbounds": [
         "🇫🇮 Finland [*CIDR] · 01",
         "🇫🇮 Finland | [*CIDR] · 02",
@@ -54,7 +64,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚡ Авто · 🇬🇧 Великобритания",
+      "tag": "🇬🇧 Авто — Великобритания",
       "outbounds": [
         "🇬🇧 United Kingdom | 🌐 [*CIDR] · 59",
         "🇬🇧 United Kingdom | 🌐 [*CIDR] · 60",
@@ -67,7 +77,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚡ Авто · 🇳🇱 Нидерланды",
+      "tag": "🇳🇱 Авто — Нидерланды",
       "outbounds": [
         "🇳🇱 The Netherlands [*CIDR] · 15",
         "🇳🇱 The Netherlands [*CIDR] · 16",
@@ -120,7 +130,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚡ Авто · 🇷🇺 Россия",
+      "tag": "🇷🇺 Авто — Россия",
       "outbounds": [
         "🇷🇺 Russia [*CIDR] · 63",
         "🇷🇺 Russia [*CIDR] · 64",
@@ -150,16 +160,6 @@
       "url": "https://cp.cloudflare.com/generate_204",
       "interval": "5m",
       "tolerance": 50
-    },
-    {
-      "type": "selector",
-      "tag": "🌍 Страны",
-      "outbounds": [
-        "⚡ Авто · 🇫🇮 Финляндия",
-        "⚡ Авто · 🇬🇧 Великобритания",
-        "⚡ Авто · 🇳🇱 Нидерланды",
-        "⚡ Авто · 🇷🇺 Россия"
-      ]
     },
     {
       "type": "vless",
