@@ -9,7 +9,7 @@
         "type": "https",
         "tag": "dns-remote",
         "server": "1.1.1.1",
-        "detour": "🌐 Страны"
+        "detour": "🌐 Протоколы и страны"
       }
     ],
     "final": "dns-remote",
@@ -1251,7 +1251,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚖️ Finland",
+      "tag": "🌍 Finland",
       "outbounds": [
         "🇫🇮 Finland [*CIDR]",
         "🇫🇮 Finland | [*CIDR]",
@@ -1267,7 +1267,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚖️ Russia",
+      "tag": "🌍 Russia",
       "outbounds": [
         "🇷🇺 Russia [*CIDR]",
         "🇷🇺 Russia | [*CIDR] Beeline",
@@ -1299,7 +1299,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚖️ The Netherlands",
+      "tag": "🌍 The Netherlands",
       "outbounds": [
         "🇳🇱 The Netherlands [*CIDR] (2)",
         "🇳🇱 The Netherlands [*CIDR] (3)",
@@ -1330,7 +1330,7 @@
     },
     {
       "type": "urltest",
-      "tag": "⚖️ United Kingdom",
+      "tag": "🌍 United Kingdom",
       "outbounds": [
         "🇬🇧 United Kingdom | 🌐 [*CIDR]",
         "🇬🇧 🇬🇧 United Kingdom | 🌐 [*CIDR] · CIDR mobile · firefox",
@@ -1345,13 +1345,13 @@
     },
     {
       "type": "selector",
-      "tag": "🌐 Страны",
+      "tag": "🌐 Протоколы и страны",
       "outbounds": [
         "⚖️ Авто — VLESS",
-        "⚖️ Finland",
-        "⚖️ Russia",
-        "⚖️ The Netherlands",
-        "⚖️ United Kingdom"
+        "🌍 Finland",
+        "🌍 Russia",
+        "🌍 The Netherlands",
+        "🌍 United Kingdom"
       ]
     },
     {
@@ -1365,7 +1365,7 @@
   ],
   "route": {
     "auto_detect_interface": true,
-    "final": "🌐 Страны",
+    "final": "🌐 Протоколы и страны",
     "rules": [
       {
         "action": "sniff"
