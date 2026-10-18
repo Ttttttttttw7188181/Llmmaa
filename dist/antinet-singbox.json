@@ -1760,8 +1760,8 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)",
         "🇩🇪 Germany | [SNI-RU] rutube.ru"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -1941,8 +1941,8 @@
         "🇳🇱 🌐 Anycast-IP | 🇭🇰 🇳🇱 | [BL] · BLACK VLESS · ios"
       ],
       "default": "⚖️ Авто — VLESS",
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50,
       "interrupt_exist_connections": true
     },
@@ -1983,8 +1983,8 @@
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (26)",
         "🇳🇱 The Netherlands, Amsterdam (Amsterdam-Noord) | [BL] (27)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2119,8 +2119,8 @@
         "🇳🇱 🇳🇱 The Netherlands, Haarlem | [BL] · BLACK · Trojan · safari (5)",
         "🇳🇱 🇳🇱 The Netherlands, Haarlem | [BL] · BLACK · Trojan · unsafe"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2253,8 +2253,8 @@
         "🇷🇺 🌐 Anycast-IP | 🇷🇺 | [BL] · BLACK · Hysteria2",
         "🇷🇺 🌐 Anycast-IP | 🇷🇺 | [BL] · BLACK · Hysteria2 (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2303,8 +2303,8 @@
         ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [BL]",
         ".ð¥ Ý ËÖ´ð¸à¼ËÂ°. | [BL] (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2343,8 +2343,8 @@
         "🇫🇮 🌐 Anycast-IP | 🇨🇦 🇫🇮 | [BL] · BLACK VLESS · qq (2)",
         "🇫🇮 🌐 Anycast-IP | 🇨🇦 🇫🇮 | [BL] · BLACK VLESS · default (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2401,8 +2401,8 @@
         "🇸🇪 🇸🇪 Sweden [SNI-RU] max.ru · SNI · edge",
         "🇸🇪 🇸🇪 Sweden [SNI-RU] max.ru · SNI · qq"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2460,8 +2460,8 @@
         "🇩🇪 🇩🇪 Germany, Frankfurt am Main | [BL] · BLACK · Hysteria2 (3)",
         "🇩🇪 🇩🇪 Germany, Frankfurt am Main | [BL] · BLACK · Hysteria2 (4)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2633,8 +2633,8 @@
         "🇳🇱 🇳🇱 The Netherlands, Haarlem | [BL] · BLACK · Trojan · safari (5)",
         "🇳🇱 🇳🇱 The Netherlands, Haarlem | [BL] · BLACK · Trojan · unsafe"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2830,8 +2830,8 @@
         "🇫🇷 🇫🇷 France, Paris | [BL] · BLACK · Trojan · edge (2)",
         "🇫🇷 🇫🇷 France, Paris | [BL] · BLACK · Trojan · safari (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2922,8 +2922,8 @@
         "🇵🇱 🇵🇱 Poland, Poznan (Jeżyce) | [BL] · BLACK · Trojan · firefox (2)",
         "🇵🇱 🇵🇱 Poland, Poznan (Jeżyce) | [BL] · BLACK · Trojan (4)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -2979,8 +2979,8 @@
         "🇪🇪 Estonia, Tallinn | [BL]",
         "🇪🇪 🇪🇪 Estonia, Tallinn | [BL] · BLACK VLESS · firefox"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3017,8 +3017,8 @@
         "🇱🇹 🇱🇹 Lithuania, Vilnius | [BL] · BLACK VLESS · random",
         "🇱🇹 🇱🇹 Lithuania, Vilnius | [BL] · BLACK VLESS · qq (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3078,8 +3078,8 @@
         "🇬🇧 🌐 Anycast-IP | 🇨🇦 🇬🇧 | [BL] · BLACK VLESS · safari (2)",
         "🇬🇧 🌐 Anycast-IP | 🇬🇧 | [BL] · BLACK VLESS · random"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3136,8 +3136,8 @@
         "🇺🇸 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] · BLACK VLESS · safari",
         "🇺🇸 🇺🇸 United States, Los Angeles (Downtown Los Angeles) | [BL] · BLACK · Hysteria2"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3188,8 +3188,8 @@
         "🇯🇵 Japan, Shinagawa (Higashishinagawa) | [BL]",
         "🇯🇵 🇯🇵 Japan, Shinagawa | [BL] · BLACK · Trojan"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3226,8 +3226,8 @@
         "🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL]",
         "🇸🇬 🇸🇬 Singapore, Singapore (Queenstown Estate) | [BL] · BLACK · Hysteria2"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3255,8 +3255,8 @@
         "🇭🇰 Hong Kong, Mong Kok | [BL]",
         "🇭🇰 🇭🇰 Hong Kong, Central | [BL] · BLACK · Hysteria2"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
@@ -3323,8 +3323,8 @@
         "🇷🇺 🌐 Anycast-IP | 🇷🇺 | [BL] · BLACK · Hysteria2",
         "🇷🇺 🌐 Anycast-IP | 🇷🇺 | [BL] · BLACK · Hysteria2 (2)"
       ],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "3m",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": "5m",
       "tolerance": 50
     },
     {
