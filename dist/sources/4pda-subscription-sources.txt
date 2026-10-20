@@ -1,0 +1,36 @@
+# Источники подписок из сообщения 4PDA
+# Список сохранён для последующего объединения и проверки совместимости.
+# Не все источники являются прямыми списками узлов; некоторые содержат правила/белые списки.
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
+https://hub.mos.ru/rkp/sub-roskompozor/raw/main/wl
+https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
+https://raw.githubusercontent.com/AirLinkVPN1/AirLinkVPN/refs/heads/main/rkn_white_list
+https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
+https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
+https://etoneya.su/whitelist
+https://subrostunnel.vercel.app/gen.txt
+https://codeberg.org/kfwl/sub/raw/branch/main/sub.txt
+https://raw.githubusercontent.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/refs/heads/main/vpn-lte/WHITELIST-ALL.txt
+https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt
+https://ru-wbl.gitverse.site/wl/KvRuVPN/KvRuVPN.txt
+https://raw.githubusercontent.com/Diversan313/apex-parser/main/subs/main/alive_full.txt
+https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
+https://gitverse.ru/api/repos/RUVIPIEN/russian-white-bolt_fix/raw/branch/master/VPNMIRRORS/nekobox/Flux_bypass_all_782661.txt
+https://hub.mos.ru/akelladejavu/bunker/-/raw/main/BLWL_MIX.txt
+http://stabratni4.temp.swtest.ru/api.php?type=normal
+https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
+https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/ping_tested.txt
+https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/main/main#%D0%91%D0%A1%2F%D0%A7%D0%A14%F0%9F%8F%B3%EF%B8%8F%F0%9F%8F%B4%20(Outline)%20
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt
+https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_all_WHITE.txt
+https://sub.vlessfo.ru/vlessforu/working_configs.txt
+https://raw.githubusercontent.com/hussaroff/lte-universal-checked/refs/heads/main/whitelist.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt#bypass-all%20t.me%2Frjsxrd
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-1.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-2.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-3.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-4.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-5.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-6.txt
